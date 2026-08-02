@@ -1,140 +1,161 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Adil%20Raja&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=BCA%20Student%20@%20Online%20Manipal%20 %20|%20 %20Aspiring%20Software%20Engineer&descAlignY=62&descSize=16&descColor=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:1F6FEB&height=180&section=header&text=Adil%20Raja&fontSize=42&fontColor=0D1117&fontAlignY=42&desc=BCA%20Student%20@%20Online%20Manipal%20 %20|%20 %20Aspiring%20Software%20Engineer&descAlignY=62&descSize=16&descColor=24292E">
-  <img alt="header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Adil%20Raja&fontSize=42&fontColor=ffffff&fontAlignY=42">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2027,100:39FF14&height=200&section=header&text=root@adil-raja:~$&fontSize=32&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=BCA%201st%20Year%20@%20Online%20Manipal%20|%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=15&descColor=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E8F5E9,50:C8E6C9,100:2E7D32&height=200&section=header&text=root@adil-raja:~$&fontSize=32&fontColor=1B5E20&animation=fadeIn&fontAlignY=38&desc=BCA%201st%20Year%20@%20Online%20Manipal%20|%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=15&descColor=2E7D32">
+  <img alt="header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2027,100:39FF14&height=200&section=header&text=root@adil-raja:~$&fontSize=32&fontColor=39FF14&fontAlignY=38">
 </picture>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1F6FEB&style=flat-square" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=1F6FEB" />
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+whoami%0A Adil+Raja;%3E+status%3A+%22compiling+knowledge...%22;%3E+learning%3A+C+%2F+C%2B%2B+%2F+DSA;%3E+building%3A+HTML+%2F+CSS+%2F+JS;%3E+goal%3A+Full-Stack+%2B+AI-ML">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=1B5E20&center=true&vCenter=true&width=700&lines=%3E+whoami%0A Adil+Raja;%3E+status%3A+%22compiling+knowledge...%22;%3E+learning%3A+C+%2F+C%2B%2B+%2F+DSA;%3E+building%3A+HTML+%2F+CSS+%2F+JS;%3E+goal%3A+Full-Stack+%2B+AI-ML">
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+status%3A+%22compiling+knowledge...%22">
+</picture>
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=views&color=39FF14&style=flat-square&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=followers&style=flat-square&color=39FF14&labelColor=0D1117)
+<img src="https://img.shields.io/badge/mode-dark%20%2F%20light%20auto-39FF14?style=flat-square&labelColor=0D1117" alt="theme"/>
 
 </div>
 
 <br/>
 
-## About
+## `~$ cat about.js`
 
-I'm a first-year **BCA student at Online Manipal (Batch 2026+)**, building a solid foundation in computer science while developing practical programming skills. My current focus is on strengthening core fundamentals — programming logic, data structures, and web development — with the long-term goal of becoming a capable software engineer.
+```javascript
+const adilRaja = {
+  location: "India",
+  education: "BCA 1st Year, Online Manipal (Batch 2026+)",
+  role: "Aspiring Software Engineer",
+  currentlyLearning: ["C", "C++", "Data Structures & Algorithms", "HTML/CSS/JS"],
+  goal: "Software Development | Full-Stack | AI-ML",
+  funFact: "believes consistency compiles better than intensity",
 
-I approach learning methodically: understanding concepts deeply before moving on, and reinforcing theory with hands-on projects.
+  sayHi: () => console.log("Let's connect and build something!")
+};
 
-<br/>
-
-## Currently
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Learning**
-- Programming in C and C++
-- Data Structures & Algorithms
-- Web Development fundamentals (HTML, CSS, JavaScript)
-- Core Computer Science concepts
-
-</td>
-<td width="50%" valign="top">
-
-**Working Toward**
-- Full-Stack Web Development
-- Strong problem-solving foundations
-- Exploring AI / Machine Learning
-- Contributing to collaborative projects
-
-</td>
-</tr>
-</table>
+adilRaja.sayHi();
+// > Let's connect and build something!
+```
 
 <br/>
 
-## Skills
+## `~$ ./focus.sh --status`
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/C-1F6FEB?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-1F6FEB?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=flat-square&logo=javascript&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Web Development</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-1F6FEB?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1F6FEB?style=flat-square&logo=tailwindcss&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-1F6FEB?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-1F6FEB?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-1F6FEB?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</td>
-</tr>
-</table>
+```bash
+$ ./focus.sh --status
+
+[✔] Pursuing BCA @ Online Manipal (Batch 2026+)
+[✔] Learning C / C++ fundamentals
+[✔] Practicing Data Structures & Algorithms
+[✔] Building basics in HTML, CSS, JavaScript
+[▓▓▓▓▓▓▓▓░░] 80% -> Core CS Concepts
+[ ] Full-Stack Web Development   -> next up
+[ ] AI / ML exploration          -> queued
+```
 
 <br/>
 
-## GitHub Overview
+## `~$ ls tech-stack/`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F6FEB&icon_color=1F6FEB&text_color=24292E&count_private=true">
-  <img width="49%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,tailwind,git,github,vscode,linux&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,tailwind,git,github,vscode,linux&theme=light">
+  <img alt="tech stack" src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,tailwind,git,github,vscode,linux&theme=dark">
+</picture>
+
+</div>
+
+<br/>
+
+```yaml
+# stack.yaml
+languages:  [C, C++, Python, JavaScript]
+frontend:   [HTML5, CSS3, Bootstrap, Tailwind CSS]
+tools:      [Git, GitHub, VS Code, Linux Terminal]
+learning_mode: "daily practice + real projects"
+```
+
+<br/>
+
+## `~$ git log --stats`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&icon_color=2E7D32&text_color=24292E&count_private=true">
+  <img width="49%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB">
-  <img width="49%" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF&stroke=2E7D32&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32">
+  <img width="49%" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=0D1117">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F6FEB&text_color=24292E&langs_count=8">
-  <img width="49%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=24292E&langs_count=8">
+  <img width="49%" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=3">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=3">
-  <img width="49%" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3">
+  <img width="49%" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=3">
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&bg_color=FFFFFF&color=1F6FEB&line=1F6FEB&point=0D1117">
-  <img width="97%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&bg_color=FFFFFF&color=2E7D32&line=2E7D32&point=1B5E20&area=true&area_color=2E7D32">
+  <img width="97%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117">
 </picture>
 
 </div>
 
 <br/>
 
-## Connect
+## `~$ ./contribution-graph --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img width="97%" alt="snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
+
+## `~$ cat contact.txt`
+
+```bash
+$ cat contact.txt
+
+LinkedIn  ->  linkedin.com/in/YOUR_LINKEDIN
+Email     ->  your.email@gmail.com
+Twitter   ->  twitter.com/YOUR_TWITTER
+```
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 <a href="mailto:your.email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1F6FEB?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-39FF14?style=for-the-badge&logo=x&logoColor=0D1117"/>
 </a>
 
 </div>
@@ -142,7 +163,7 @@ I approach learning methodically: understanding concepts deeply before moving on
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:F6F8FA&height=100&section=footer">
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0D1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:E8F5E9&height=120&section=footer">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0D1117&height=120&section=footer">
 </picture>
